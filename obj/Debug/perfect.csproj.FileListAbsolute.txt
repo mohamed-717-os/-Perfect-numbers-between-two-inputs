@@ -1,0 +1,8 @@
+C:\Users\Compustore\source\repos\perfect\perfect\bin\Debug\perfect.exe.config
+C:\Users\Compustore\source\repos\perfect\perfect\bin\Debug\perfect.exe
+C:\Users\Compustore\source\repos\perfect\perfect\bin\Debug\perfect.pdb
+C:\Users\Compustore\source\repos\perfect\perfect\obj\Debug\perfect.csproj.AssemblyReference.cache
+C:\Users\Compustore\source\repos\perfect\perfect\obj\Debug\perfect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Compustore\source\repos\perfect\perfect\obj\Debug\perfect.csproj.CoreCompileInputs.cache
+C:\Users\Compustore\source\repos\perfect\perfect\obj\Debug\perfect.exe
+C:\Users\Compustore\source\repos\perfect\perfect\obj\Debug\perfect.pdb
